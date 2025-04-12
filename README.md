@@ -62,4 +62,3 @@ El script JavaScript funciona de forma autónoma porque:
 * ✅ **Profesional (como una librería externa):** Al servir el script a través de jsDelivr, se integra al proyecto de manera similar a una librería externa, facilitando su gestión y uso.
 * ✅ **No necesita instalar nada:** Los usuarios solo necesitan añadir una etiqueta `<script>` a su HTML, sin requerir instalaciones de dependencias o configuraciones complejas.
 
-<br />
